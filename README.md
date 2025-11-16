@@ -45,23 +45,15 @@ Dream Fitness는 사용자가 섭취한 음식의 영양 정보를 쉽게 파악
 ### 💻 기술 스택
 - Frontend
 
-React
-
-JavaScript
-
-Axios
-
-CSS / Styled-components
+React, JavaScript , Axios, CSS / Styled-components
 
 - Backend (초기 설계)
 
-Django
-Python
+Django, Python
 (일부 API 미완)
 
 - Open API
-칼로리/영양소 조회 API
-레시피 추천 API
+칼로리/영양소 조회 API, 레시피 추천 API
 
 <br/>
 
